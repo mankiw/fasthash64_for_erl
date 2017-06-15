@@ -1,5 +1,3 @@
-# fasthash64_for_erl
-
 # [mankiw@zbc fasthash]$ erl
 # Erlang R16B03 (erts-5.10.4) [source] [64-bit] [smp:6:6] [async-threads:10] [hipe] [kernel-poll:false]
 
